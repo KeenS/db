@@ -1,0 +1,6 @@
+*.o
+*.dat
+*.def
+test-datadef
+test-datamanip
+test-file
